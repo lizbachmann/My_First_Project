@@ -37,3 +37,6 @@ ul #menu li a {background-color: gray;
 ul#menu li :hover {
     background-color: tan;
 }
+img {
+align-content: center;
+}
