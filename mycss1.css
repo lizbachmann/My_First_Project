@@ -13,6 +13,7 @@ nav {
     float:left;
     padding:5px;
     border: 2px solid black;
+    text-decoration: none;
 }
 section {
     width:350px;
@@ -26,9 +27,11 @@ footer {
     text-align:center;
     padding:5px;	 	 
 }
-img {
-al
+a {
+text-decoration: none;
+    text-align: left;
 }
+
 a:hover {
 		  background-color: #e2bb53;
 		  -webkit-transition-duration: 0.5s;
