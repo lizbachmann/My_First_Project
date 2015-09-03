@@ -14,12 +14,18 @@ nav {
     line-height:30px;
     background-color:#eeeeee;
     height:500px;
-    width:100px;
+    width:150px;
     float:left;
     padding:5px;
     border: 2px solid black;
     text-decoration: none;
+
 }
+
+nav a. selected {
+text-decoration: none;
+    text-decoration-color: black;
+
 section {
     width:900px;
     float:left;
